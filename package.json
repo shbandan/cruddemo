@@ -1,6 +1,10 @@
 {
   "name": "cruddemo",
   "version": "0.0.0",
+  "engine": {
+    "node": "*",
+    "npm": "*"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
